@@ -1,0 +1,16 @@
+# Java
+*.class
+/*.jar
+/build/
+/.gradle/
+/out/
+/*.zip
+
+# IntelliJ
+.idea/
+/*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
