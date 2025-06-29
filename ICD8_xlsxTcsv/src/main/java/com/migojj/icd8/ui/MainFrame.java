@@ -1,5 +1,5 @@
 // File: src/main/java/com/migojj/icd8/MainFrame.java
-package com.migojj.icd8;
+package com.migojj.icd8.ui;
 
 import javax.swing.*;
 import java.awt.*;
